@@ -47,3 +47,11 @@
 <code>test_mask.py, test_gender.py, test_age.py, test_merge.py</code>
 <li>위 baseline code를 개조하여 앙상블하기 위해 만들었습니다. 각 파일 하나당 그에 해당하는 label을 훈련, 예측값을 반환합니다.</li>
 
+## 랩업 리포트
+<img src='부스트캠프 랩업 리포트/부스트캠프 랩업 리포트_Page_1.png'>  
+<img src='부스트캠프 랩업 리포트/부스트캠프 랩업 리포트_Page_2.png'>  
+<img src='부스트캠프 랩업 리포트/부스트캠프 랩업 리포트_Page_3.png'>  
+<img src='부스트캠프 랩업 리포트/부스트캠프 랩업 리포트_Page_4.png'>  
+<img src='부스트캠프 랩업 리포트/부스트캠프 랩업 리포트_Page_5.png'>  
+<img src='부스트캠프 랩업 리포트/부스트캠프 랩업 리포트_Page_6.png'>  
+<img src='부스트캠프 랩업 리포트/부스트캠프 랩업 리포트_Page_7.png'>  
