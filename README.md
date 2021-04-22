@@ -9,6 +9,12 @@
     </embed>
 </object>
 
+<object data="피어세션 발표.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="피어세션 발표.pdf">
+        <p><a href="피어세션 발표.pdf">피어세션 발표.pdf</a></p>
+    </embed>
+</object>
+
 ## Components
 
 <code>dataset.py</code>
@@ -55,3 +61,11 @@
 <img src='부스트캠프 랩업 리포트/부스트캠프 랩업 리포트_Page_5.png'>  
 <img src='부스트캠프 랩업 리포트/부스트캠프 랩업 리포트_Page_6.png'>  
 <img src='부스트캠프 랩업 리포트/부스트캠프 랩업 리포트_Page_7.png'>  
+
+## 피어세션 발표
+<img src='피어세션 발표/피어세션 발표_Page_1.png'>  
+<img src='피어세션 발표/피어세션 발표_Page_2.png'>  
+<img src='피어세션 발표/피어세션 발표_Page_3.png'>  
+<img src='피어세션 발표/피어세션 발표_Page_4.png'>  
+<img src='피어세션 발표/피어세션 발표_Page_5.png'>  
+<img src='피어세션 발표/피어세션 발표_Page_6.png'>  
